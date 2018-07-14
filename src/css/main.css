@@ -1,0 +1,65 @@
+
+* {
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  background-color: lightseagreen;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+h1 {
+  display: inline-block;
+  font-family: "Segoe Script", Futura, Calibri, sans-serif;
+  font-size: 4em;
+  margin: auto;
+}
+
+header img {
+  display: inline-block;
+  width: 128px;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+body {
+  background-color: cornsilk;
+}
+
+main {
+  padding: 0 1em;
+}
+
+.wrapper {
+  min-height: calc(100vh - 110px);
+}
+
+main p {
+  font-family: Arial, sans-serif;
+  font-size: 1.3em;
+  text-align: center;
+  margin-top: 10%;
+}
+
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  height: 110px;
+  background-color: lightseagreen;
+}
+
+footer img {
+  width: 80px;
+  border-radius: 5px;
+}
+
+#codewars {
+  width: 160px;
+}
+
+
