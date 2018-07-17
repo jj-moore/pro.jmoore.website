@@ -1,0 +1,64 @@
+body {
+    background-color: #00F5FF;
+    font-family: Arial, 'sans-serif';
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+#button {
+    margin: 10px auto;
+    width: 250px;
+    height: 40px;
+    font-size: 1.2em;
+    background-color: orange;
+}
+
+table {
+    width: 260px;
+    margin: 0 auto;
+}
+
+table td {
+    padding-top: 3px;
+}
+
+#title {
+    width: 160px;
+    text-align: left;
+}
+
+#text, #entry {
+    width: 80px;
+    text-align: right;
+}
+
+#entry {
+    float: right;
+    height: 25px;
+    font-size: 1.1em;
+}
+
+#totaltitle {
+    width: 160px;
+    text-align: left;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+#total {
+    width: 80px;
+    text-align: right;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+input {
+    font-family: Arial, 'sans-serif';
+}
+
+p {
+    text-align: center;
+}
+
